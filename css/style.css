@@ -21,7 +21,7 @@ header h1{
 	font-size: 50px;
 }
 header img{
-	size: 100px;
+	max-width: 30%;
 	border-radius: 150px
 	width: 100px;
 	border: 10px solid white;
@@ -32,6 +32,8 @@ main{
 	text-align: left;
 	padding: 20px ;
 }
+
+/* This is a comment */
 
 main img{
 	max-width: 100%;
@@ -47,6 +49,7 @@ a{
 a:hover{
 	color: #483a94;
 }
+/* This another comment*/
 footer{
 	background-color: #d14635;
 	text-align: center;
